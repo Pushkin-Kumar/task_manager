@@ -7,6 +7,6 @@
     "start": "node task-manager.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pushkin",
   "license": "ISC"
 }
